@@ -1,2 +1,3 @@
 # Vrinda-Store-Annual-Report-2023
-This is my first git Repository
+This is my first git Repository.
+Author - Ganesh Sangule
